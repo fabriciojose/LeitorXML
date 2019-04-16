@@ -14,12 +14,11 @@
 	</dependency>
 	
 	<dependency>
-    <groupId>xstream</groupId>
-    <artifactId>xstream</artifactId>
-    <version>1.2.2</version>
-</dependency>
-	
-  
+	    <groupId>com.thoughtworks.xstream</groupId>
+	    <artifactId>xstream</artifactId>
+	    <version>1.4.5</version>
+	</dependency>
+
   </dependencies>
   
   
